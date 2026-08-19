@@ -1,0 +1,4 @@
+# 时间戳转换（dsh-timestamp）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: timestamp
+      name: 'dsh-timestamp'
